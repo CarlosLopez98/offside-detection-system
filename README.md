@@ -1,4 +1,4 @@
-# 📦 Offside Detection System
+# Offside Detection System
 
 A JavaFX-based application designed to assist in determining offside positions in football (soccer) by analyzing a single frame of a play. The system allows manual input of field lines and uses perspective geometry to estimate vanishing points, project player positions, and help visualize possible offside situations.
 
@@ -18,9 +18,7 @@ This tool is intended for use in sports analysis environments, research, or educ
 
 ## 🎬 Demo
 
-_Si tienes una demo o preview del proyecto, agrega un link aquí o una imagen/gif:_
-
-![demo gif](./assets/demo/offside_demo.gif)
+![Demo project gif](./assets/demo/offside_demo.gif)
 
 ---
 
