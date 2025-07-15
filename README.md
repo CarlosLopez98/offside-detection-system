@@ -16,7 +16,7 @@ This tool is intended for use in sports analysis environments, research, or educ
 
 ---
 
-## Demo
+## 🎬 Demo
 
 _Si tienes una demo o preview del proyecto, agrega un link aquí o una imagen/gif:_
 
@@ -76,7 +76,7 @@ _Si tienes una demo o preview del proyecto, agrega un link aquí o una imagen/gi
 
 ---
 
-## Project structure
+## 🧱 Project structure
 
 ```bash
 .
@@ -143,7 +143,7 @@ Make sure your code follows the existing style and includes necessary tests.
 
 ---
 
-## Author
+## 👤 Author
 
 **Carlos Lopez**
 - GitHub: [@carloslopez98](https://github.com/carloslopez98)
