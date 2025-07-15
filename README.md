@@ -20,7 +20,7 @@ This tool is intended for use in sports analysis environments, research, or educ
 
 _Si tienes una demo o preview del proyecto, agrega un link aquí o una imagen/gif:_
 
-![demo gif](./assets/demo/Offside demo.gif)
+![demo gif](./assets/demo/offside_demo.gif)
 
 ---
 
