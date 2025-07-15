@@ -1,0 +1,25 @@
+.button {
+    -fx-background-color: #3c3f41;
+    -fx-text-fill: #f1f1f1;
+    -fx-background-radius: 4;
+    -fx-padding: 4 8;
+    -fx-border-width: 1;
+    -fx-border-radius: 4;
+    -fx-border-color: #00000000;
+}
+
+/* Hover */
+.button:hover {
+    -fx-background-color: #505354;
+}
+
+/* Clicked / Pressed */
+.button:pressed {
+    -fx-background-color: #2e2f31;
+}
+
+/* Focus (por teclado, por ejemplo) */
+.button:focused {
+    -fx-border-color: #585D5F;
+    -fx-border-width: 1;
+}
